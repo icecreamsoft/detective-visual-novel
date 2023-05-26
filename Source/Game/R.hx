@@ -1,18 +1,6 @@
 package;
 
 extern class R {
-	public static inline var DARK_GRAY = 0x4A4A4A;
-	public static inline var GRAY = 0x8A8A8A;
-	public static inline var GREEN = 0x2AA22A;
-	public static inline var RED = 0xA22A2A;
-	public static inline var BLUE = 0x2A2AA2;
-	public static inline var PURPLE = 0xA22AA2;
-	public static inline var YELLOW = 0xA2A22A;
-
-	// keys
-	public static inline var TEAM = "team";
-	public static inline var SPEED = "speed";
-
 	// events
 	public static inline var EV_MAIN_MENU = "ev.g0";
 	public static inline var EV_GAME_START = "ev.g1";
