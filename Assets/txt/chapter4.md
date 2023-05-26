@@ -254,7 +254,7 @@ Takashi acknowledged the message with a determined nod.
 
 They sprinted down the hallway, their footsteps echoing against the sterile walls. 
 
-They swiftly turned corners and maneuvered through the maze-like structure of the facility until they reached their destination—the holding cell where Yui was being kept captive.
+They swiftly turned corners and maneuvered through the maze-like structure of the facility until they reached their destination - the holding cell where Yui was being kept captive.
 
 # clear
 # background file=cell.jpeg 
@@ -281,7 +281,7 @@ With Kenta's guidance, they skillfully navigated the labyrinthine corridors, the
 
 They avoided guards and scientists by sticking to the shadows, blending in with the background noise of the facility.
 
-Finally, after what felt like an eternity, they reached the exit—a heavy metal door that symbolized their pathway to freedom. 
+Finally, after what felt like an eternity, they reached the exit - a heavy metal door that symbolized their pathway to freedom. 
 
 The anticipation was palpable as they prepared themselves for the final push.
 

@@ -118,7 +118,7 @@ He confessed, his voice tinged with regret.
 
 Takashi's fists clenched in anger. 
 
-He had witnessed the aftermath of Hiroto's experiments—the shattered lives, the families torn apart. 
+He had witnessed the aftermath of Hiroto's experiments - the shattered lives, the families torn apart. 
 
 The magnitude of Hiroto's callousness struck a deep chord within him. 
 
@@ -226,11 +226,11 @@ Takashi and Emiko, as key witnesses, testified to the lengths Hiroto had gone to
 
 Their unwavering resolve and dedication to seeking justice resonated with the jury and the spectators alike.
 
-Ultimately, the court delivered its verdict—a resounding condemnation of Hiroto's actions. 
+Ultimately, the court delivered its verdict - a resounding condemnation of Hiroto's actions. 
 
 He was found guilty on multiple counts, including illegal human experimentation, manslaughter, and obstruction of justice. 
 
-The weight of his crimes bore down upon him as the judge pronounced the sentence—a lifetime behind bars, without the possibility of parole.
+The weight of his crimes bore down upon him as the judge pronounced the sentence - a lifetime behind bars, without the possibility of parole.
 
 Takashi and Emiko left the courtroom, a sense of closure washing over them. 
 
@@ -244,7 +244,7 @@ Their shared journey had forged a deep bond between them, one that extended beyo
 
 They realized that their partnership, built on trust, resilience, and shared values, had blossomed into something more profound.
 
-Embracing the new beginning that lay before them, they made a choice—to continue fighting for justice, to ensure that no one else would suffer at the hands of those driven by misguided ambitions. 
+Embracing the new beginning that lay before them, they made a choice - to continue fighting for justice, to ensure that no one else would suffer at the hands of those driven by misguided ambitions. 
 
 Together, they founded an organization dedicated to investigating and exposing similar crimes, offering support to the victims and their families.
 
