@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+
+	<meta title="Detective Novel" package="com.icecreamsoft.proto.DetectiveNovel" version="1.0.0" company="Icecreamsoft" />
+	<window width="1024" height="768" background="#000000" fps="60" />
+
+	<app main="Main" path="Export" file="game" />
+
+	<source path="Source/Core" />
+	<source path="Source/Game" />
+	<source path="Source" />
+
+	<haxelib name="lime" />
+
+	<assets path="Assets/fonts" rename="fonts" />
+	<assets path="Assets/bgm" rename="bgm" />
+	<assets path="Assets/img" rename="img" />
+	<assets path="Assets/sfx" rename="sfx" />
+	<assets path="Assets/txt" rename="txt" />
+
+
+</project>
